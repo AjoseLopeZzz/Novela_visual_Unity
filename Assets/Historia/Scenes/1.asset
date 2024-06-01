@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Ya porfin terminaste grado 11
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: c90bbda81fc61b64096dab173e188461, type: 3}
+    sound: {fileID: 0}
+  - text: "Tienes una edad aproximada entre 16-18 a\xF1os"
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: c90bbda81fc61b64096dab173e188461, type: 3}
+    sound: {fileID: 0}
+  - text: Tienes algo que hacer para el futuro
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: c90bbda81fc61b64096dab173e188461, type: 3}
+    sound: {fileID: 0}
+  - text: "\xBFQu\xE9 te gustaria hacer?"
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: c90bbda81fc61b64096dab173e188461, type: 3}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: ef4d8c5e73cc21840b9edd0691a9c0a5, type: 3}
+  nextScene: {fileID: 11400000, guid: 7d004fb8248fada4c94f42eeffa42294, type: 2}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Bueno, parece que este primer semestre
+    speaker: {fileID: 11400000, guid: f56373b04e16273428ebe4f62b548a9e, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: b1a4b200ce662d048ae9541245ffc60e, type: 3}
+    sound: {fileID: 0}
+  - text: "no ser\xE1 tan complicado, pero, espera..."
+    speaker: {fileID: 11400000, guid: f56373b04e16273428ebe4f62b548a9e, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: b1a4b200ce662d048ae9541245ffc60e, type: 3}
+    sound: {fileID: 0}
+  - text: "\xBFQU\xC9 RAYOS ES ESOOOOOO? "
+    speaker: {fileID: 11400000, guid: f56373b04e16273428ebe4f62b548a9e, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: b1a4b200ce662d048ae9541245ffc60e, type: 3}
+    sound: {fileID: 0}
+  - text: "\xBFDesarrollo personal? \xBFrelleno? .__."
+    speaker: {fileID: 11400000, guid: f56373b04e16273428ebe4f62b548a9e, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 23956a133b76a614ca92a9630cb721bb, type: 3}
+  - text: "Bueno, supongo que lo averiguar\xE9 por ahora..."
+    speaker: {fileID: 11400000, guid: f56373b04e16273428ebe4f62b548a9e, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 6ea932cf6a200554f9eb335aff46a5d2, type: 3}
+  nextScene: {fileID: 11400000, guid: 81f26988d71dd4d46b25b94fda80b72b, type: 2}

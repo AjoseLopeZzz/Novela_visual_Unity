@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 14
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: ahg bueno, vamos a darle a este semestre
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: cfd9b775032f1b44a8309d0a5239016a, type: 3}
+    sound: {fileID: 0}
+  - text: "Espero poder ver a Jorge y a Mar\xEDa"
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "nuestra primera clase se llama programaci\xF3n orientada a objetos"
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "o tambi\xE9n conocida por sus siglas como POO"
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: e28ce7f640b577f4c93965e9b162c478, type: 3}
+  nextScene: {fileID: 11400000, guid: 6b8f149debacfd54da8c8ee11e655161, type: 2}

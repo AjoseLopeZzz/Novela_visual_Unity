@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Fin 3er semestre
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Te puedes relajar tranquilo y tomar unas vacaciones
+    speaker: {fileID: 11400000, guid: 393caa2a47148a64ea98dda9733fbf8b, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 3b843a6340809d743b92178c09488a93, type: 3}
+  background: {fileID: 21300000, guid: 7dc043c0737f81e4f948356df60de3c7, type: 3}
+  nextScene: {fileID: 11400000, guid: 8e1dfcefb45f23348b440fc352fd7ed3, type: 2}

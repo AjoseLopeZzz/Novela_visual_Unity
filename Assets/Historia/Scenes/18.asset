@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 18
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Alo?
+    speaker: {fileID: 11400000, guid: b710cf8e34a67504ba35171b2dc4f4f4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b710cf8e34a67504ba35171b2dc4f4f4, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 8300000, guid: b9e0fc7c9c766734f86cdd85fa7f17d7, type: 3}
+  - text: Alo? con quien hablo?
+    speaker: {fileID: 11400000, guid: f56373b04e16273428ebe4f62b548a9e, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b710cf8e34a67504ba35171b2dc4f4f4, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 8300000, guid: b9e0fc7c9c766734f86cdd85fa7f17d7, type: 3}
+  - text: "EYY compa\xF1ero te gustar\xEDa salir de fiesta conmigo y otros amigos
+      m\xE1s? "
+    speaker: {fileID: 11400000, guid: b710cf8e34a67504ba35171b2dc4f4f4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b710cf8e34a67504ba35171b2dc4f4f4, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b710cf8e34a67504ba35171b2dc4f4f4, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: 0.38, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b710cf8e34a67504ba35171b2dc4f4f4, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0.38, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 8300000, guid: b9e0fc7c9c766734f86cdd85fa7f17d7, type: 3}
+  background: {fileID: 21300000, guid: ef4d8c5e73cc21840b9edd0691a9c0a5, type: 3}
+  nextScene: {fileID: 11400000, guid: c68847beb3f5981429908a00407dd577, type: 2}

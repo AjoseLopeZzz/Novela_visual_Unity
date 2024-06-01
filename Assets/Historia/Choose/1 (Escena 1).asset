@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: 1 (Escena 1)
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Buscar trabajo
+    nextScene: {fileID: 11400000, guid: 5d7e680c939dba9438577ffe0dd1a672, type: 2}
+  - text: Prestar servicio militar
+    nextScene: {fileID: 11400000, guid: 85457c309ceb07048bcd7e387a7cb242, type: 2}
+  - text: Estudiar una carrera universitaria
+    nextScene: {fileID: 11400000, guid: 98fded5059c739647a7196a2e386e9ab, type: 2}
